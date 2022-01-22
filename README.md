@@ -6,4 +6,4 @@ Aqeel Mozumder &
 Mustafa Wasif
 
 # Current Location Service
-1695 Sheirdan Avenue
+1695 Sheirdan Avenue, BC Canada
